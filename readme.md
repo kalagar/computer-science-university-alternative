@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://youtube.com/@kalagar2">
+        <img alt="kalagar youtube channel" title="kalagar youtube channel" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+    </a>
+</p>
+
 # نقشه راه مهندسی نرم افزار
 
 ## ورود به علوم رایانه
