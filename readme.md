@@ -4,7 +4,7 @@
     </a>
 </p>
 
-[**ویدئوی مرتبط**](https://www.youtube.com/watch?v=VUWTPLnYCio&t=405s&ab_channel=Kalagar)
+[**ویدئوی مرتبط**](https://www.youtube.com/watch?v=VUWTPLnYCio)
 
 # نقشه راه مهندسی نرم افزار
 
