@@ -301,7 +301,7 @@
 
 دانش‌آموزانی که می‌خواهند راهنمایی بیشتری برای ایجاد یک پروژه داشته باشند، میتوانند از یک سری دوره‌های پروژه‌محور استفاده کنند. در اینجا نمونه‌ای از گزینه‌های موجود وجود دارد (بسیاری از گزینه‌ها در دسترس هستند، در این مرحله باید بتوانید مجموعه‌ای را که برای شما جالب و مرتبط است شناسایی کنید) :
 
-Courses | Duration | Effort | Prerequisites
+دوره های آموزشی | مدت زمان | تلاش | پیش نیازها
 :-- | :--: | :--: | :--:
 [Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming
 [Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
